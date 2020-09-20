@@ -52,7 +52,7 @@ class dense_NN_sgd():
         return (1-np.square(np.tanh(X)))
     
     def dleakyRELU(self,x):
-        return np.where(x>=0,0.01,1.0)
+        return np.where(x>=0,1.0,0.01)
     
     ##############################################
     
