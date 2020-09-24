@@ -11,3 +11,5 @@ Repository of Machine Learning Python notebooks with algorithms created from scr
 4. <a href = "https://github.com/apj2n4/Machine-Learning-from-scratch/blob/master/Neural%20Network%20SGD_Classification/Loan_Default_Binary_Classification.ipynb">Deep Neural Network with mini batch Stochastic Gradient Descent -Loan Default Prediction </a>
 
 5. <a href = "https://github.com/apj2n4/Machine-Learning-from-scratch/blob/master/Loan_Default_app/Production_ML_Loan_Default_Flask_Gunicorn_Nginx.ipynb"> Loan Default Prediction - RESTful API using Flask, Gunicorn and NGINX</a>
+
+6. <a href = "https://github.com/apj2n4/Machine-Learning-from-scratch/blob/master/Neural_Network_SGD_Regression/Regression_ANN_sgd.ipynb"> Deep Neural Network with mini batch Stochastic Gradient Descent for Regression - Boston Home Values </a>
